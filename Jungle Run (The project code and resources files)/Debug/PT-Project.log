@@ -1,0 +1,115 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SwitchToPlayMode.cpp
+  SwitchToDesignMode.cpp
+  SpecialAttack.cpp
+  Snake.cpp
+  SaveGridAction.cpp
+  RollDiceAction.cpp
+  Main.cpp
+  Player.cpp
+  PasteCardAction.cpp
+  Output.cpp
+  OpenGridAction.cpp
+  NewGameAction.cpp
+  Ladder.cpp
+  InputDiceValueAction.cpp
+  Input.cpp
+  Grid.cpp
+  GameObject.cpp
+  EditCardAction.cpp
+  DeleteGameObjectAction.cpp
+  CutCardAction.cpp
+  Generating Code...
+  Compiling...
+  CopyCardAction.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(751,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(1164,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(1171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(1202,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(1210,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  CellPosition.cpp
+  Cell.cpp
+  Card_9.cpp
+  Card_8.cpp
+  Card_7.cpp
+  CardTwo.cpp
+  CardTwelve.cpp
+  CardThree.cpp
+  CardThirteen.cpp
+  CardTen.cpp
+  CardSix.cpp
+  CardOne.cpp
+  Generating Code...
+  Compiling...
+  CardFourteen.cpp
+  CardFour.cpp
+  CardFive.cpp
+  CardEleven.cpp
+  Card.cpp
+  ApplicationManager.cpp
+  AddSnakeAction.cpp
+  AddLadderAction.cpp
+  AddCardAction.cpp
+  Action.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\jpeg\jmemmgr.c(1103,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\jpeg\jmemmgr.c(1106,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\jpeg\jerror.c(169,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\jpeg\jerror.c(171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\CMUgraphicsLib\jpegload.c(23,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  Generating Code...
+Action.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> F:\College\1st year\First semester\Programming technuiqes\Project\T5\Jungle Run (The project code and resources files)\.\Debug\PT Project.exe
