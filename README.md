@@ -75,3 +75,40 @@ This includes handling:
   - Card 8: Prevent next dice roll.
   - Card 9: Instructs the player to go to a specific cell specified during grid design.
   - Cards [10-14]: Monopoly like cells, i.e. buy cells to make them stations and get rent from passing players.
+
+# Concept Art
+
+Below are some examples of the game art we worked on for this game. We may work on integrating it into the game in a future release.
+
+## Character Art
+
+<div align="center">
+<img src="./image/README/1645943612909.png" style="Width: 220px" alt="">
+<img src="./image/README/1645943623847.png" style="Width: 220px" alt="">
+<img src="./image/README/1645943618653.png" style="Width: 220px" alt="">
+</div>
+<div align="center">
+<img src="./image/README/1645944302753.png" style="Width: 220px" alt="">
+<img src="./image/README/1645943630807.png" style="Width: 220px" alt="">
+<img src="./image/README/Animation.gif" style="Width: 220px" alt="">
+</div>
+<br/>
+
+## Card Art
+
+<div align="center">
+<img src="./image/README/1645944668260.png" style="Width: 180px" alt="">
+<img src="./image/README/1645944671178.png" style="Width: 180px" alt="">
+<img src="./image/README/1645944674023.png" style="Width: 180px" alt="">
+</div>
+<div align="center">
+<img src="./image/README/1645944676888.png" style="Width: 180px" alt="">
+<img src="./image/README/1645944679672.png" style="Width: 180px" alt="">
+<img src="./image/README/1645944683842.png" style="Width: 180px" alt="">
+</div>
+<div align="center">
+<img src="./image/README/1645944686976.png" style="Width: 180px" alt="">
+<img src="./image/README/1645944689844.png" style="Width: 180px" alt="">
+<img src="./image/README/1645944693093.png" style="Width: 180px" alt="">
+</div>
+<br/>
